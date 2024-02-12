@@ -20,7 +20,7 @@ body {
 .header-img {
   display: flex;
   width: 100%;
-  max-width: 650px;
+  max-width: 600px;
   margin-inline: auto;
   filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.2));
 }
@@ -37,7 +37,7 @@ body {
 .image-1,
 .image-2 {
   position: absolute;
-  top: 10%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
